@@ -24,5 +24,8 @@ $$
 <p style="color:yellow;"> Note:  This probability modeling is adopted from "Hidden Markov Map Matching Through Noise and Sparseness ,Paul Newson and John Krumm  Microsoft Research", where slight changes to use Transition and emission
 probability functions.</p>
 
+At the picture below, noisy points are marked in yellow, while the others are denoised:
+
+![Screenshot 2024-01-30 195628](https://github.com/Amirabbas-Afzali/Hidden-Markov-Map-Matching-Through-Noise/assets/102149705/52a3016d-bdc5-427d-8cac-39e0c3468eb6)
 
 
